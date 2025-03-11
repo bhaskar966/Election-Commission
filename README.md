@@ -30,7 +30,9 @@ npm i cors dotenv express express-async-handler express-session mongoose nodemon
 npm start 
 ```
 
-# 7. Enter in the clint folder (sorry for the spelling mistake 😅)
+## 7. Start another terminal
+
+# 8. Enter in the clint folder (sorry for the spelling mistake 😅)
 
 > [!NOTE]
 > Make sure you're in command prompt/CMD.
@@ -39,13 +41,13 @@ npm start
 cd clint
 ```
 
-## 5. Install packages
+## 9. Install packages
 
 ```
 npm install
 ```
 
-## 6. Start the frontend
+## 10. Start the frontend
 
 ```
 npm run dev 
